@@ -37,7 +37,7 @@ sudo apt update
 sudo apt upgrade -y
 ```
 
-You can replace those two commands with anything you need or just add a few more, also don't forget to add ";/\" at the end, e.g.:
+You can replace those two commands with anything you need or just add a few more, also don't forget to add ";\\" at the end, e.g.:
 ```
 expect_password 'ssh $login@$ip "
 sudo apt install resolvconf -y ;\
