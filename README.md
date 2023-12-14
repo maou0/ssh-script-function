@@ -110,4 +110,6 @@ function expect_password {
 ```
 
 4) Save the changes and start the script:
+```
 ./function.sh
+```
